@@ -5,6 +5,7 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "outDir": "dist",
+    "moduleResolution": "node",
     "skipLibCheck": true
   }
 }
