@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "ts.check": "tsc --project tsconfig.json",
-    "build": "tsc",
+    "build": "del dist && tsc",
     "add-build": "git add dist"
   },
   "keywords": [],
