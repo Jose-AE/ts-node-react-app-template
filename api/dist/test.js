@@ -1,2 +1,2 @@
 "use strict";
-const y = 20;
+const x = 0;
